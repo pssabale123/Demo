@@ -1,0 +1,17 @@
+
+ -for npm install
+
+  npm install less -g
+
+ -for less compile and create css                                     
+
+  lessc styles.less styles.css
+
+ - for better way to compile and create css cmd is 
+
+   less-watch-compile (less)srcfilepath (css)DestFilePath
+
+
+set an terminal to the vs code 
+
+do at powershell    Set-ExecutionPolicy Unrestricted
